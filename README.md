@@ -15,7 +15,7 @@
 This project combines the KLT (Kanade-Lucas-Tomasi) feature tracking algorithm with YOLOv8, a state-of-the-art object detection model. The goal is to detect and track objects in video streams, utilizing custom-trained YOLOv8 models for object detection and KLT feature tracking for smooth and continuous object tracking.
 
 ## Flowchart
-![FLOWCHART](demo_images/FLOWCHART.png)
+![FLOWCHART](demo_images/FLOWCHART.PNG)
 
 
 ## Environment setup
