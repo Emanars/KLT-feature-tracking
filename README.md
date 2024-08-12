@@ -42,9 +42,9 @@ Image labeling contains two files i.e images and labels. label file contains  th
 
 - Here is corresponding image and its label file
 
-![labeled image](demo_images/labelimage.png)
+![labeled image](demo_images/labelimage.PNG)
 
-![labeled image](demo_images/label.png)
+![labeled image](demo_images/label.PNG)
 
 
 ## Dataset Training
